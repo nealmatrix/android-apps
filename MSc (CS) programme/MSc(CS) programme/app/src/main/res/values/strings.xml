@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">MSc(CS) programme</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="programme_overview">The MSc(CompSc) programme is a comprehensive postgraduate study programme provides advanced and in-depth learning in Computer Science.  The programme is credit unit based, with courses of both applied and fundamental nature.
+        \n\nStudents can choose focussed streams of study or a comprehensive and diversified study in Computer Science, i.e. the General Stream.
+        \n\nFocussed streams of study represent a cohesive collection of related courses that provides both fundamental and in-depth exposure to students in a given ICT domain.  Students can extend and deepen their knowledge in the specialization streams in Cyber Security, Multimedia Computing and Financial Computing. </string>
+    <string name="cyber_security">The Cyber Security Stream is a multidisciplinary area of study and professional activity concerned with state-of-the-art technology in cyber security. The curriculum covers different aspects of cyber security from different perspectives, including technical, organisational, human-oriented and legal.</string>
+    <string name="multimedia_computing">The Multimedia Computing Stream focuses on multimedia computing, communications, analytics, visualisation and applications.
+        \n\nMultimedia Computing encompasses media coding and processing, streaming-media middleware, media representations, real-time protocols, media analysis, and human-interaction and visualisation techniques.
+        \n\nStudents are encouraged to develop innovative ideas using the latest development in technology such as mobile devices and big-data analytics.</string>
+    <string name="financial_computing">The Financial Computing Stream is the study of data and algorithms used in finance and the mathematics of computer programs that realise financial models or systems.
+        \n\nFinancial Computing emphasises practical numerical methods and focuses on techniques that are directly applicable to business and financial analysis.
+        \n\nThe emphasis will be in the computing aspect of the financial industry.</string>
+    <string name="general_stream">The General Stream covers a broad, comprehensive range of Computer Science subjects, including a wide range of courses from which students can choose from. It offers students the most flexibility to design their own study portfolio based on their career aspiration or requirements.</string>
+    <string name="msg_director">We are living in the era where technology is widely accepted and becomes so commonplace that we doubt how we ever live without it. Mobile is a good prominent example. From businesses to individual consumers, everyone is connected to everyone, everywhere, all the time. Every day we hear of new technological breakthroughs, e.g. self-driving cars, organ-on-a-chip, smart glasses, drones; they are awe-inspiring. To remain in the game, the best IT professionals strive to maintain current knowledge and skills to take on these continual developments.
+        \n\nThe Master of Science in Computer Science Programme is a comprehensive and challenging graduate programme with three specialisations and one general stream, namely Financial Computing Stream, Cyber Security Stream, Multimedia Computing Stream and General Computer Science Stream, to meet the needs of both industry and business in Asia, and to make the programme more unique among comparable programmes in the region.
+        \n\nAs you can see from our curriculum, on one hand we have retained the nuts and bolts subjects to lay a strong foundation. But on the other hand, we updated and revised the curriculum continuously as we assess the career trends and needs of our students, and monitor rapid changes in technology developments. For example, hot topics like “fintech”, “blockchain” are included in some of our courses.
+        \n\nIf you like the holistic approach of our teaching methods and curriculum, please consider enrolling in this established programme in a world-class university.
+        \n\nDr. K.P. Chow
+        \nProgramme Director</string>
+    <string name="director_name"></string>
+    <string name="schedule_duration_study">The MSc(CompSc) programme is offered in both full-time and part-time modes.
+        \n\nThere are 3 semesters in an academic year
+        \nSemester 1: September – December
+        \nSemester 2: January – May
+        \nSummer semester: June – August.
+        \n\n<b>Part-time:</b> 2-3 years
+        \n<b>Full-time: </b>1-2 years</string>
+    <string name="schedule_class">Classes are usually conducted in weekday evenings from 7:00 p.m., or during weekends. Some courses will be offered mainly for full-time students in weekday daytime.</string>
+    <string name="programme_schedule"><b>Duration of Study</b>
+        \nThe MSc(CompSc) programme is offered in both full-time and part-time modes.
+        \n\nThere are 3 semesters in an academic year
+        \nSemester 1: September – December
+        \nSemester 2: January – May
+        \nSummer semester: June – August.
+        \n\n<b>Part-time:</b> 2-3 years
+        \n<b>Full-time: </b>1-2 years
+        \n\n<b>Class Schedule</b>
+        \nClasses are usually conducted in weekday evenings from 7:00 p.m., or during weekends. Some courses will be offered mainly for full-time students in weekday daytime.</string>
+    <string name="fee_composition_fees">The composition fee for each 6-credit course is HK$13,000*. Project has a composition fee of HK$26,000 and the Dissertation has a composition fee of HK$52,000. Total composition fee for the two study modes are therefore as follows:
+        \n\n<b>10 courses + Project:
+            \n(HK$13,000 x 10) + (HK$26,000) = HK$156,000</b>
+        \n\n<b>8 Courses + Dissertation:
+            \n(HK$13,000 x 8) + (HK$52,000) = HK$156,000</b>
+        \n\nStudents who select to study a course from the MSc(ECom\u0026IComp) and MSc(Eng) programmes have to pay HK$13,000* and HK$12,000* respectively per 6-credit course.
+        \n\n<i>* Subject to University approval</i>
+        \n\nFees for enrolled courses are paid on semester basis.  The first instalment of composition fees of 12 credit-units is payable at the time of acceptance of an offer of admission.
+        \n\nGenerally composition fees for cancelled enrolment before specified deadline are not refunded, but can be used to pay for another enrolled course or carried over to the next semester as credit. (Subject to the approval by the University)</string>
+    <string name="fee_financial_assistance"><i>For Hong Kong Residents</i>
+        \n\nContinuing Education Fund (CEF)Some of our courses have been included in the list of reimbursable courses for the Hong Kong Continuing Education Fund (CEF) which provides reimbursement up to HK$10,000 for eligible local students.  More details available at: http://www.wfsfaa.gov.hk/cef/index.htm
+        \n\n<i>For PRC Candidates</i>
+        \n\nPRC students who have successfully applied and been offered a place in the Master of Science in Computer Science as full-time students in Hong Kong have an opportunity to have their composition fees reduced if they apply and are awarded The China Postgraduate Scholarships for Computer Science.
+        \n\nThe maximum number of scholarships for 2019-20 is thirty, with a maximum value of HK$30,000 each.
+        \n\nThe scholarships shall be used to meet part of the composition fees for a full-time programme of studies leading to the degree of Master of Science in Computer Science.
+        \n\nThe scholarships shall be awarded mainly on the basis of academic merits.</string>
+    <string name="course_note">\n<i>^ Students with focussed streams of study have to take at least 24 credits courses (equivalent to four 6-credit courses) in the corresponding subject group.
+        \n\n# Subject to University\'s approval</i></string>
+    <string name="course_introduction">The following is a list of courses offered for the MSc(CompSc) curriculum by the Department of Computer Science.  The courses, both in terms of range and syllabus, are updated and revised continuously by the Programme Committee and the Department.  Any revision requires University’s approval.  The list of courses is also subject to change because occasionally we may decide not to offer a particular course in one year or to add some new ones, based on the findings of the annual curriculum review.  Please refer to our website for updated information.
+        \n</string>
+    <string name="faculty_introduction">The Department of Computer Science is committed to high-quality education and training of computing professionals at both the undergraduate and postgraduate levels. At the postgraduate level, we offer two taught programmes based on coursework, the MSc(CompSc) and the MSc(ECom\u0026IComp), as well as the research-based MPhil and PhD programmes.
+        \n\nThe academic staff is active in research and development in a variety of areas including databases, parallel and distributed computing, computer networks, computer graphics, algorithms and complexity, computer vision, multimedia, software engineering, statistical computing, information security and computer forensics, and legal aspects of computing. Some of our research results have been applied to the development of real software and systems. You will have these researchers as your inspiring teachers of the courses in this programme. Here are some of them.</string>
+</resources>

@@ -1,0 +1,28 @@
+Dr. Chan H.T.H.;PhD (Carnegie Mellon);Field of Research;Algorithms, Combinatorial Optimization, Graphs, Information Networks, Security & Privacy
+Dr. Chan K.P.;PhD (HK);Field of Research;Pattern Recognition, Chinese Computing, Facial Expression Recognition, Machine Learning
+Dr. Cheng R.C.K.;PhD (Purdue);Field of Research;Database and Uncertainty Management
+Dr. Chim T.W.;PhD (HK);Field of Research;Network Security and Cryptography
+Dr. Choi L.Y.K.;PhD (HK);Field of Research;Medical Visualization, Geometric Computing, Computer Graphics
+Dr. Chow K.P.;PhD (UC Santa Barbara);Field of Research;Computer Forensics, Digital Investigation, Data Privacy, Computer Security
+Dr. Chung H.Y.;PhD (HK);Field of Research;Internet Computing, Video-coding, Video/Image Processing, Real-time Processing
+Dr. Lau V.M.K.;PhD (HK);Field of Research;User Interface, Embedded System, Mobile system, Chinese Character, Font and Input Technologies
+Dr. Pun K.K.H.;PhD (Illinois), LLB, LLM (London);Field of Research;Information Technology Law, e-Commerce, e-Crimes, Computerization of LawDr. Rahmel J.H.;PhD (Kaiserslautern);Field of Research;Artificial Intelligence, Financial Services
+Dr. Schnieders D.;PhD (HK);Field of Research;Computer Vision, Image Processing, Pattern Recognition
+Dr. Shum C.D.;PhD (California);Field of Research;Financial Computing
+Dr. Tam A.T.C.;PhD (HK);Field of Research;Cluster Computing, Parallel and Distributed Computing
+Dr. Ting H.F.;PhD (Princeton);Field of Research;Design and Analysis of Algorithms
+Dr. Wong K.K.Y.;PhD (Cambridge);Field of Research;Camera Calibration, Motion Tracking
+Dr. Wu C.;PhD (Toronto);Field of Research;Computer Networking, Cloud Computing
+Dr. Yiu S.M.;PhD (HK);Field of Research;Bioinformatics, Computer Security and Cryptography
+Dr. Yiu S.W.;PhD (UC Berkeley);Field of Research;Computer and Network Security
+Mr. Li F.K.F.;MSc (HK);Field of Research;Computer Forensics, Malware Analysis
+Mr. Mitcheson, G.;BSc, MSc (Manc);Field of Research;Software Engineering, Evolutionary Computation and Design
+Mr. Ng P.T.L.;MBA (Birmingham);Field of Research;Financial Computing
+Prof. Cheung D.W.L.;PhD (Simon Fraser);Field of Research;Data Engineering, e-Commerce Technology
+Prof. Kao B.C.M.;PhD (Princeton);Field of Research;Database Management Systems, Data Mining, Real-time Systems, Information Retrieval Systems
+Prof. Lam T.W.;PhD (Washington);Field of Research;Algorithms, Computational Biology
+Prof. Lau F.C.M.;PhD (Waterloo);Field of Research;Operating Systems, Parallel and Distributed Computing, Wireless Networks
+Prof. Tse T.H.;PhD (London);Field of Research;Program Testing, Debugging, and Analysis
+Prof. Wang C.L.;PhD (USC);Field of Research;Operating Systems, Virtual Machines, Cloud Computing
+Prof. Wang W.;PhD (Alberta);Field of Research;Computer Graphics, Computational Geometry, Geometric Modeling
+Prof. White B.;MS (US);Field of Research;Web Science, Social Media in Education, The Web of Things, and Cloud Computing

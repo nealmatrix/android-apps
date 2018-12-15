@@ -1,0 +1,28 @@
+Dr. Chan H.T.H.;PhD (Carnegie Mellon);hubert@cs.hku.hk;Field of Research;Algorithms, Combinatorial Optimization, Graphs, Information Networks, Security & Privacy
+Dr. Chan K.P.;PhD (HK);kpchan@cs.hku.hk;Field of Research;Pattern Recognition, Chinese Computing, Facial Expression Recognition, Machine Learning
+Dr. Cheng R.C.K.;PhD (Purdue);ckcheng@cs.hku.hk;Field of Research;Database and Uncertainty Management
+Dr. Chim T.W.;PhD (HK);twchim@cs.hku.hk;Field of Research;Network Security and Cryptography
+Dr. Choi L.Y.K.;PhD (HK);ykchoi@cs.hku.hk;Field of Research;Medical Visualization, Geometric Computing, Computer Graphics
+Dr. Chow K.P.;PhD (UC Santa Barbara);chow@cs.hku.hk;Field of Research;Computer Forensics, Digital Investigation, Data Privacy, Computer Security
+Dr. Chung H.Y.;PhD (HK);hychung@cs.hku.hk;Field of Research;Internet Computing, Video-coding, Video/Image Processing, Real-time Processing
+Dr. Lau V.M.K.;PhD (HK);vmklau@cs.hku.hk;Field of Research;User Interface, Embedded System, Mobile system, Chinese Character, Font and Input Technologies
+Dr. Pun K.K.H.;PhD (Illinois), LLB, LLM (London);pun@cs.hku.hk;Field of Research;Information Technology Law, e-Commerce, e-Crimes, Computerization of LawDr. Rahmel J.H.;PhD (Kaiserslautern);juergen@hku.hk;Field of Research;Artificial Intelligence, Financial Services
+Dr. Schnieders D.;PhD (HK);sdirk@cs.hku.hk;Field of Research;Computer Vision, Image Processing, Pattern Recognition
+Dr. Shum C.D.;PhD (California);cdshum@cs.hku.hk;Field of Research;Financial Computing
+Dr. Tam A.T.C.;PhD (HK);atctam@cs.hku.hk;Field of Research;Cluster Computing, Parallel and Distributed Computing
+Dr. Ting H.F.;PhD (Princeton);hfting@cs.hku.hk;Field of Research;Design and Analysis of Algorithms
+Dr. Wong K.K.Y.;PhD (Cambridge);kykwong@cs.hku.hk;Field of Research;Camera Calibration, Motion Tracking
+Dr. Wu C.;PhD (Toronto);cwu@cs.hku.hk;Field of Research;Computer Networking, Cloud Computing
+Dr. Yiu S.M.;PhD (HK);smyiu@cs.hku.hk;Field of Research;Bioinformatics, Computer Security and Cryptography
+Dr. Yiu S.W.;PhD (UC Berkeley);swryiu@cs.hku.hk;Field of Research;Computer and Network Security
+Mr. Li F.K.F.;MSc (HK);fkfli@cs.hku.hk;Field of Research;Computer Forensics, Malware Analysis
+Mr. Mitcheson, G.;BSc, MSc (Manc);georgem@cs.hku.hk;Field of Research;Software Engineering, Evolutionary Computation and Design
+Mr. Ng P.T.L.;MBA (Birmingham);tlng@cs.hku.hk;Field of Research;Financial Computing
+Prof. Cheung D.W.L.;PhD (Simon Fraser);dcheung@cs.hku.hk;Field of Research;Data Engineering, e-Commerce Technology
+Prof. Kao B.C.M.;PhD (Princeton);kao@cs.hku.hk;Field of Research;Database Management Systems, Data Mining, Real-time Systems, Information Retrieval Systems
+Prof. Lam T.W.;PhD (Washington);twlam@cs.hku.hk;Field of Research;Algorithms, Computational Biology
+Prof. Lau F.C.M.;PhD (Waterloo);fcmlau@cs.hku.hk;Field of Research;Operating Systems, Parallel and Distributed Computing, Wireless Networks
+Prof. Tse T.H.;PhD (London);thtse@cs.hku.hk;Field of Research;Program Testing, Debugging, and Analysis
+Prof. Wang C.L.;PhD (USC);clwang@cs.hku.hk;Field of Research;Operating Systems, Virtual Machines, Cloud Computing
+Prof. Wang W.;PhD (Alberta);wenping@cs.hku.hk;Field of Research;Computer Graphics, Computational Geometry, Geometric Modeling
+Prof. White B.;MS (US);bwhite@cs.hku.hk;Field of Research;Web Science, Social Media in Education, The Web of Things, and Cloud Computing

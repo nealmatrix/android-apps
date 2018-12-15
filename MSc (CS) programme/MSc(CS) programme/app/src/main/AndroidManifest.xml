@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.administrator.msccsprogramme">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/msccs"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/msccs"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".TeacherListActivity" />
+        <activity android:name=".TeacherListActivity2"/>
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".OverviewActivity" />
+        <activity android:name=".MsgDirectorActivity" />
+        <activity android:name=".ScheduleActivity" />
+        <activity android:name=".FeeActivity" />
+        <activity android:name=".CoursesActivity"></activity>
+    </application>
+
+</manifest>

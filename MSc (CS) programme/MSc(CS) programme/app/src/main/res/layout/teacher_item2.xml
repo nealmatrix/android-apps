@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView
+        android:id="@+id/teacher_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:id="@+id/teacher_name2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:layout_constraintLeft_toRightOf="@id/teacher_image"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <TextView
+        android:id="@+id/teacher_status2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintLeft_toRightOf="@id/teacher_image"
+        app:layout_constraintTop_toBottomOf="@id/teacher_name2"/>
+    <TextView
+        android:id="@+id/teacher_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintLeft_toRightOf="@id/teacher_image"
+        app:layout_constraintTop_toBottomOf="@id/teacher_status2"/>
+    <TextView
+        android:id="@+id/teacher_research_title2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/teacher_image"/>
+    <TextView
+        android:id="@+id/teacher_research2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@id/teacher_research_title2"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginStart="10dp"/>
+
+</android.support.constraint.ConstraintLayout>

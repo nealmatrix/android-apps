@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_linearLayout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_pic">
+
+    <com.example.administrator.msccsprogramme.TitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MSc(CS)Programme"/>
+
+     <android.support.v7.widget.RecyclerView
+        android:id="@+id/mainItem_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="30dp"/>
+
+</LinearLayout>

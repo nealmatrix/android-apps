@@ -1,0 +1,43 @@
+Cyber Security,
+COMP7806,Topic in information security
+COMP7901,Legal protection of digital property #
+COMP7903,Digital investigation and forensics
+COMP7904,Information security: attacks and defense
+COMP7905,Reverse engineering and malware analysis
+COMP7906,Introduction to cyber security #
+Financial Computing, 
+COMP7103,Data mining
+COMP7405,Techniques in computational finance
+COMP7406,Software development for quantitative finance
+COMP7407,Securities transaction banking
+COMP7408,Distributed ledger and blockchain technology #
+COMP7802,Introduction to financial computing
+COMP7808,Topic in financial computing
+COMP7906,Introduction to cyber security #
+Multimedia Computing, 
+COMP7502,Image processing and computer vision
+COMP7503,Multimedia technologies
+COMP7504,Pattern recognition and applications
+COMP7505,User interface design and development
+COMP7506,Smart phone apps development #
+COMP7507,Visualization and visual analytics
+COMP7604,Game design and development
+COMP7807,Topic in multimedia computing
+Other Courses, 
+COMP7104,Advanced database systems #
+COMP7201,Analysis and design of enterprise applications in UML
+COMP7203,Modern software design
+COMP7205,Enterprise architecture
+COMP7303,High-performance computing
+COMP7304,The wireless Internet and mobile network
+COMP7305,Cluster and cloud computing
+COMP7306,Web technologies
+COMP7307,Advanced real-time embedded systems and applications
+COMP7403,Computational molecular biology
+COMP7404,Computational intelligence and machine learning
+COMP7606,Deep learning #
+COMP7801,Topic in computer science
+COMP7805,Topic in computer network and systems
+Capstone Experience, 
+COMP7704,Dissertation (24 credits)
+COMP7705,Project (12 credits)
